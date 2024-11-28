@@ -5,7 +5,8 @@ body {
     font-size: 22px;
     color: #333;
     text-align:center;
-    padding:0;
+    padding:0 0 0 0;
+    margin:0 auto;
 }
 div {
     margin-bottom:20px;
