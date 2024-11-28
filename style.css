@@ -1,14 +1,23 @@
 /* styles.css */
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Sira Sans', sans-serif;
     font-size: 22px;
     color: #333;
     text-align:center;
     padding:0;
 }
-
+div {
+    margin-bottom:20px;
+    margin-top:20px;
+}
 .logo img{
-    width:30%;
+    width:80%;
     max-width:250px;
+}
+.slogan {
+    font-weight:bold;
+}
+.copyright {
+    font-size: 13px;
 }
