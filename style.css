@@ -5,66 +5,13 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    font-weight: 400; /* Corrisponde al peso normale del font */
-    color: #333; /* Colore del testo di base */
-}
-
-/* Navbar */
-nav {
-    background-color: #fff; /* Sfondo bianco */
-    padding: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: space-between;
-}
-
-nav li a {
-    text-decoration: none;
+    font-weight: 400;
     color: #333;
-    font-weight: 700; /* Corrisponde al peso bold del font */
+    text-center:center;
+    padding:0;
 }
 
-/* Logo */
-/* ... stili per il logo (dimensioni, colore, font, ecc.) */
-
-/* Main */
-main {
-    padding: 20px;
-}
-
-/* Servizi */
-/* ... stili per la lista dei servizi */
-
-/* Call to action */
-/* ... stili per il pulsante "Contact us" */
-
-/* Footer */
-footer {
-    background-color: #f2f2f2;
-    padding: 10px;
-    text-align: center;
-}
-
-/* Icone social */
-.social-icons {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-}
-
-.social-icons li {
-    margin: 0 10px;
-}
-
-.social-icons a {
-    color: #333;
-    font-size: 24px;
+.logo{
+    width:30%;
+    max-width:250px;
 }
